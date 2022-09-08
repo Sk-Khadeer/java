@@ -195,3 +195,4 @@ public class StarEx extends Thread{
         s.start();
     }
 }
+/////////////////////////////////////////
